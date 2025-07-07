@@ -1,2 +1,4 @@
 # tim-repository2
-my first repository.
+My first repository.
+Hello world!
+I like reading, playing games, and hanging out with friends.
